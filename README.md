@@ -12,7 +12,7 @@ DistilBERT is a small, fast, cheap and light Transformer model trained by distil
 
 
 
-2. Why DistilBERT
+# 2. Why DistilBERT
 
 ![alt text](https://github.com/daniel-satria/Sentiment_Analysis_DistilBERT/blob/main/assets/distilbert_2.png)
 
@@ -21,7 +21,8 @@ DistilBERT is a small, fast, cheap and light Transformer model trained by distil
     40% less parameters
     It can run on CPU
 
-3. Additional References
+
+# 3. Additional References
 
 3.1 DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter
 
@@ -43,7 +44,8 @@ DistilBERT is a small, fast, cheap and light Transformer model trained by distil
 
     URL : http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
 
-4. What is ktrain
+
+# 4. What is ktrain
 
 Ktrain is a library to help build, train, debug, and deploy neural networks in the deep learning software framework, Keras. ktrain uses tf.keras in TensorFlow instead of standalone Keras.) Inspired by the fastai library, with only a few lines of code, ktrain allows you to easily:
 
