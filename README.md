@@ -14,7 +14,7 @@ DistilBERT is a small, fast, cheap and light Transformer model trained by distil
 
 2. Why DistilBERT
 
-![alt text]([https://github.com/daniel-satria/Sentiment_Analysis_DistilBERT/blob/main/assets/distilbert.png?raw=true](https://github.com/daniel-satria/Sentiment_Analysis_DistilBERT/blob/main/assets/distilbert_2.png))
+![alt text](https://github.com/daniel-satria/Sentiment_Analysis_DistilBERT/blob/main/assets/distilbert_2.png)
 
     Accurate as much as Original BERT Model
     60% faster
