@@ -16,10 +16,11 @@ DistilBERT is a small, fast, cheap and light Transformer model trained by distil
 
 ![alt text](https://github.com/daniel-satria/Sentiment_Analysis_DistilBERT/blob/main/assets/distilbert_2.png)
 
-    Accurate as much as Original BERT Model
-    60% faster
-    40% less parameters
-    It can run on CPU
+    1. Accurate as much as Original BERT Model
+    2. 60% faster
+    3. 40% less parameters
+    4. It can run on CPU
+    
 
 
 # 3. Additional References
@@ -64,5 +65,16 @@ Ktrain is a library to help build, train, debug, and deploy neural networks in t
 Ktrain GitHub:
 
     URL : https://github.com/amaiya/ktrain
+    
+
+# 5. Model Use
+
+Due to limited space, the full model can't be uploaded to this repo. You can train the model yourself with the Jupyter Notebook I've given above.
+
+
+# 6. Model Deployment
+
+Flask is used to deploy the model, as shown in App folder. To make it production-ready, don't forget to use WSGI instead.
+
 
 
